@@ -5,27 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991dd8aa-292a-4ace-b048-ac0b3f118eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/VerificationRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/EmailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../E_Binary_Deque.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/config/SecurityConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationResponse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/RegisterRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/auth/AuthLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/auth/AuthLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/pages/MainLayoutWithDash.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/MainLayoutWithDash.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/pages/SignIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/SignIn.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/pages/SignUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/SignUp.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vite.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../vite.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +112,9 @@
       <workItem from="1774293119927" duration="1567000" />
       <workItem from="1774370484441" duration="757000" />
       <workItem from="1774531998021" duration="8776000" />
-      <workItem from="1774608153287" duration="4388000" />
+      <workItem from="1774608153287" duration="10415000" />
+      <workItem from="1774702706423" duration="4333000" />
+      <workItem from="1774780894183" duration="1259000" />
     </task>
     <servers />
   </component>

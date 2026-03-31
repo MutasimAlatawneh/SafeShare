@@ -17,10 +17,10 @@ spring:
 
   # Make sure 'mail' is indented exactly 2 spaces, just like 'datasource' and 'jpa'
   mail:
-    host: sandbox.smtp.mailtrap.io
+    host: smtp.gmail.com
     port: 587
-    username: 48663b9cd59961
-    password: b27e1908a37fad
+    username: safeshare.project2026@gmail.com
+    password: xxjfuxtewyykvlsw
     properties:
       mail:
         smtp:

@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991dd8aa-292a-4ace-b048-ac0b3f118eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/FoldersContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/FoldersContext.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Myfolders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Myfolders.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/UploadFileDialog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/UploadFileDialog.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/pages/SignIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/SignIn.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/pages/SignUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/SignUp.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,6 +119,8 @@
       <workItem from="1774807465141" duration="3286000" />
       <workItem from="1774880884935" duration="6341000" />
       <workItem from="1774890933346" duration="615000" />
+      <workItem from="1774917275777" duration="313000" />
+      <workItem from="1774939312239" duration="2861000" />
     </task>
     <servers />
   </component>

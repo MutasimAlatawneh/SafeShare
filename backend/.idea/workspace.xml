@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991dd8aa-292a-4ace-b048-ac0b3f118eb3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/ShareRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/UserSearchResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileShare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileShareRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/a7a08870-d319-46ef-afe6-564c0774ec1d.enc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/components/dashboard/FoldersContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/FoldersContext.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Myfolders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Myfolders.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Trashpage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Trashpage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/context/AuthContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/context/AuthContext.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/lib/encryption.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/lib/encryption.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/pages/SignIn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/pages/SignIn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/services/cryptoService.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/services/cryptoService.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +134,9 @@
       <workItem from="1774890933346" duration="615000" />
       <workItem from="1774917275777" duration="313000" />
       <workItem from="1774939312239" duration="2861000" />
+      <workItem from="1774974350474" duration="6268000" />
+      <workItem from="1775047093283" duration="1652000" />
+      <workItem from="1775151629948" duration="2984000" />
     </task>
     <servers />
   </component>

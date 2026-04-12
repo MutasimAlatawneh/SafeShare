@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991dd8aa-292a-4ace-b048-ac0b3f118eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/ShareFileRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/SharedFileResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/TransactionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileTransactionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/TransactionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/transaction/FileTransaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/transaction/FileTransactionDTO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/UserSearchResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/UserSearchResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileShare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileShare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileShareRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileShareRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Myfolders.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Myfolders.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +132,8 @@
       <workItem from="1775769990194" duration="1401000" />
       <workItem from="1775808312602" duration="3743000" />
       <workItem from="1775894064641" duration="14050000" />
+      <workItem from="1775934391507" duration="2680000" />
+      <workItem from="1775981860981" duration="5838000" />
     </task>
     <servers />
   </component>

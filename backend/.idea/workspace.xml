@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/transaction/FileTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/transaction/FileTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/transaction/FileTransactionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/transaction/FileTransactionDTO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +135,8 @@
       <workItem from="1775808312602" duration="3743000" />
       <workItem from="1775894064641" duration="14050000" />
       <workItem from="1775934391507" duration="2680000" />
-      <workItem from="1775981860981" duration="5838000" />
+      <workItem from="1775981860981" duration="5978000" />
+      <workItem from="1776067678178" duration="6909000" />
     </task>
     <servers />
   </component>

@@ -15,7 +15,6 @@ spring:
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
 
-  # Make sure 'mail' is indented exactly 2 spaces, just like 'datasource' and 'jpa'
   mail:
     host: smtp.gmail.com
     port: 587
@@ -27,3 +26,9 @@ spring:
           auth: true
           starttls:
             enable: true
+
+# GEMINI AI CONFIGURATION (YAML FORMAT)
+gemini:
+  api:
+    key: ${GCP_API_KEY}
+    url: https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent

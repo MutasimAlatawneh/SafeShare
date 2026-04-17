@@ -5,21 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991dd8aa-292a-4ace-b048-ac0b3f118eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupRole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/GroupMemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/GroupRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/ActivityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/GroupResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/AuditLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/AuditLogRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/AiService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/AuditService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/GroupService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/BackupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/BackupController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/UserController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/GroupMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/GroupMemberRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../gitignore.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/BackUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/BackUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/AiAssistantPage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/AiAssistantPage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/DashboardHome.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/DashboardHome.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/FoldersContext.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/FoldersContext.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Group.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -152,7 +159,7 @@
       <workItem from="1776107974657" duration="43000" />
       <workItem from="1776364527119" duration="2395000" />
       <workItem from="1776370274041" duration="1050000" />
-      <workItem from="1776397897774" duration="4326000" />
+      <workItem from="1776397897774" duration="14749000" />
     </task>
     <servers />
   </component>

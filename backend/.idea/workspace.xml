@@ -5,14 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="991dd8aa-292a-4ace-b048-ac0b3f118eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/BackupController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/ShareAccessResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/GroupRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/GroupMemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/GroupRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/BackupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/BackupController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/controller/FileController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileShareRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileShareRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/model/FileEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/repository/FileRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/motasem/safeshare/services/FileService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Chatpage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Chatpage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitignore.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/BackUp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/BackUp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/dashboard/Group.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/dashboard/Group.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +30,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -142,7 +150,9 @@
       <workItem from="1775981860981" duration="5978000" />
       <workItem from="1776067678178" duration="7611000" />
       <workItem from="1776107974657" duration="43000" />
-      <workItem from="1776364527119" duration="1274000" />
+      <workItem from="1776364527119" duration="2395000" />
+      <workItem from="1776370274041" duration="1050000" />
+      <workItem from="1776397897774" duration="4326000" />
     </task>
     <servers />
   </component>

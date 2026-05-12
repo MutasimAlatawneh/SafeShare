@@ -1,16 +1,10 @@
 import { useEffect } from "react";
 import Navbar from "@/components/Navbar";
-import HeroSection from "@/components/HeroSection";
-import FeatureCards from "@/components/FeatureCards";
-import ZeroKnowledgeDiagram from "@/components/ZeroKnowledgeDiagram";
-import HowItWorks from "@/components/HowItWorks";
-import Testimonials from "@/components/Testimonials";
 import PricingSection from "@/components/PricingSection";
-import CTASection from "@/components/CTASection";
 import Footer from "@/components/Footer";
 import "@/styles/landing.css";
 
-const Index = () => {
+const PricingPage = () => {
   useEffect(() => {
     // Add landing-page class to body for dark theme
     document.body.classList.add("landing-page");
@@ -21,22 +15,17 @@ const Index = () => {
   }, []);
 
   return (
-    <div className="min-h-screen landing-page" style={{ 
+    <div className="min-h-screen landing-page pt-16" style={{ 
       background: "hsl(222 47% 6%)",
       color: "hsl(210 40% 98%)"
     }}>
       <Navbar />
       <main>
-        <HeroSection />
-        <FeatureCards />
-        <ZeroKnowledgeDiagram />
-        <HowItWorks />
-        <Testimonials />
-        <CTASection />
+        <PricingSection />
       </main>
       <Footer />
     </div>
   );
 };
 
-export default Index;
+export default PricingPage;
